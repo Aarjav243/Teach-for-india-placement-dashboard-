@@ -40,7 +40,7 @@ export default function Sidebar() {
             <GraduationCap className="w-5 h-5 text-white" />
           </div>
           <div>
-            <p className="text-white font-bold text-sm leading-tight">Teach For India</p>
+            <p className="text-white font-bold text-sm leading-tight">iTeach</p>
             <p className="text-white/40 text-xs">Placement Portal</p>
           </div>
         </div>

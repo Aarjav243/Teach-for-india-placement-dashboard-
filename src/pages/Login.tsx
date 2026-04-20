@@ -33,7 +33,7 @@ export default function Login() {
               <GraduationCap className="w-6 h-6 text-tfi-pink" />
             </div>
             <div>
-              <p className="text-white font-bold text-lg leading-tight">Teach For India</p>
+              <p className="text-white font-bold text-lg leading-tight">iTeach</p>
               <p className="text-white/70 text-xs">Placement Dashboard</p>
             </div>
           </div>
@@ -77,7 +77,7 @@ export default function Login() {
               <GraduationCap className="w-6 h-6 text-white" />
             </div>
             <div>
-              <p className="font-bold text-tfi-dark text-lg">Teach For India</p>
+              <p className="font-bold text-tfi-dark text-lg">iTeach</p>
               <p className="text-gray-500 text-xs">Placement Dashboard</p>
             </div>
           </div>
